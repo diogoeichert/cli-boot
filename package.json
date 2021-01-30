@@ -26,6 +26,6 @@
 	"homepage": "https://github.com/diogoeichert/cli-boot#readme",
 	"devDependencies": {
 		"eslint": "^7.11.0",
-		"eslint-config-perfect": "^1.0.1"
+		"eslint-config-classic": "^0.1.0"
 	}
 }
