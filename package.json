@@ -23,7 +23,7 @@
 	"bugs": {
 		"url": "https://github.com/diogoeichert/cli-boot/issues"
 	},
-	"funding: : "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diogoeichert%40icloud.com&item_name=cli-boot&currency_code=EUR"
+	"funding: : "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diogoeichert%40icloud.com&item_name=cli-boot&currency_code=EUR",
 	"homepage": "https://github.com/diogoeichert/cli-boot#readme",
 	"devDependencies": {
 		"eslint": "^7.11.0",
