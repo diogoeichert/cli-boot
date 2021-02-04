@@ -26,7 +26,7 @@
 	"funding": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diogoeichert%40icloud.com&item_name=cli-boot&currency_code=EUR",
 	"homepage": "https://github.com/diogoeichert/cli-boot#readme",
 	"devDependencies": {
-		"eslint": "^7.11.0",
+		"eslint": "^7.19.0",
 		"eslint-config-classic": "^0.1.0"
 	}
 }
