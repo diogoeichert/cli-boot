@@ -1,6 +1,6 @@
 {
 	"name": "cli-boot",
-	"version": "1.2.8",
+	"version": "1.2.9",
 	"description": "CLI wrapper",
 	"main": "index.js",
 	"scripts": {
